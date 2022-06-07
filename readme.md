@@ -1,1 +1,1 @@
-this is the preview link of the website - (link)[https://iamsujitroy.github.io/first-api-project/]
+this is the preview link of the website - [Link](https://iamsujitroy.github.io/first-api-project/)
